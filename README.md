@@ -20,5 +20,5 @@ Take a look [here](http://osmar.gonzal.us/dealing-arduino-nano-3-serial-ports/) 
 
 Credits
 ========
-A7lib is adopted by Osmar Gonzalez (osmar.itzahel.gonzalez@gmail.com).
+A7lib is adopted by Connor McMillan (connor@mcmillan.website).
 The orignial library was intially written as [`SerialSMS`](https://github.com/meirm/SerialGSM) by Meir Michanie (meirm@riunx.com) and released under the GPL3. So big thanks to Meir.
