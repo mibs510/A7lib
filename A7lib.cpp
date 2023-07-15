@@ -1,7 +1,6 @@
 /** 
  * A7lib Version 1.0
- * modified by Osmar Gonzalez
- * osmar.itzahel.gonzalez@gmail.com
+ * modified by Connor McMillan
  * 
  * adopted from
  * 
